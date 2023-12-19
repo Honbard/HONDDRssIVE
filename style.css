@@ -25,12 +25,12 @@ body {
 .history-container {
   margin-left: 20px;
   padding: 20px;
-  background-color: #fcfdfb;
+  background-color: #fefefe;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   text-align: left;
   overflow-y: auto;
-  max-height: 300px; 
+  max-height: 300px;
 }
 
 h1 {
@@ -90,5 +90,4 @@ button:hover {
 }
 
 #copyBtn:hover {
-  background-color: #2980b9;
-}
+  background-col
